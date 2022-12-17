@@ -3,7 +3,6 @@ package com.example.addressbook.controller;
 import com.example.addressbook.Response;
 import com.example.addressbook.dto.AddressBookDTO;
 import com.example.addressbook.model.AddressBookModel;
-import com.example.addressbook.repositery.AddressBookRepositery;
 import com.example.addressbook.service.IAddressBookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
