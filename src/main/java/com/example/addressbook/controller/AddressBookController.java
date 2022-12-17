@@ -15,8 +15,6 @@ import java.util.List;
 @RestController
 @RequestMapping("/AddressBook")
 public class AddressBookController {
-    @Autowired
-    AddressBookRepositery addressBookRepositery;
 
     @Autowired
     IAddressBookService iAddressBookService;
